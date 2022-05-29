@@ -1,2 +1,3 @@
 # AutoRestAssured
-RestAssured based Framework
+
+RestAssured based Framework Example

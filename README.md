@@ -1,0 +1,2 @@
+# AutoRestAssured
+RestAssured based Framework
